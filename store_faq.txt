@@ -1,0 +1,17 @@
+Q: Do you sell milk?
+A: Yes, we sell fresh milk in 1-liter packs for $1.5.
+
+Q: What are your store hours?
+A: We are open daily from 8am to 10pm, including weekends.
+
+Q: Do you accept credit cards?
+A: Yes, we accept all major credit and debit cards.
+
+Q: Can I return a product?
+A: Yes, returns are accepted within 7 days with the original receipt.
+
+Q: Do you offer delivery?
+A: Currently, we only support in-store pickups.
+
+Q: Where is your store located?
+A: Our store is located at 123 Main Street, Springfield.

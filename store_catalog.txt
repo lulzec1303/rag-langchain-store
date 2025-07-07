@@ -1,0 +1,14 @@
+Product: Milk
+Description: Fresh cow milk in 1L and 2L bottles. Priced at $1.5 and $2.8 respectively.
+
+Product: Bread
+Description: Soft white and multigrain bread. Baked daily. $2 per loaf.
+
+Product: Eggs
+Description: Organic free-range eggs in packs of 6 and 12. $3.0 and $5.5.
+
+Product: Chips
+Description: Crispy potato chips in salted, spicy, and BBQ flavors. Price: $1.2.
+
+Product: Coke
+Description: Coca-Cola bottles, 500ml and 1L. $1 and $1.8 each.
